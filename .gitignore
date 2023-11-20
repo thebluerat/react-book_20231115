@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+todo-app/node_modules
+react-book_start/node_modules
+
 
 # testing
 /coverage
