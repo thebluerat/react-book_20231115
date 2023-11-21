@@ -4,8 +4,13 @@
 /node_modules
 /.pnp
 .pnp.js
-todo-app/node_modules
+.idea
+hello-react/node_modules
+hooks-tutorial/node_modules
 react-book_start/node_modules
+styling-react/node_modules
+todo-app/node_modules
+
 
 
 # testing
