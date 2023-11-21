@@ -11,7 +11,10 @@ react-book_start/node_modules
 styling-react/node_modules
 todo-app/node_modules
 
-
+${server.properties.db.datasource.url}
+${server.properties.db.datasource.driver-class-name}
+${server.properties.db.datasource.username}
+${server.properties.db.datasource.password}
 
 # testing
 /coverage
