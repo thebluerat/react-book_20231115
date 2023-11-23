@@ -6,6 +6,8 @@
 .pnp.js
 todo-app/node_modules
 react-book_start/node_modules
+immer-tutorial/node_modules
+
 
 
 # testing
