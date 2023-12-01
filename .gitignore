@@ -10,6 +10,9 @@ hooks-tutorial/node_modules
 react-book_start/node_modules
 immer-tutorial/node_modules
 
+node_modules
+**/node_modules/
+
 styling-react/node_modules
 todo-app/node_modules
 
